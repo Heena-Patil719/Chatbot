@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client=OpenAI(
     api_key="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",
-    base_url="https://api.groq.com/openai/v1"
+    base_url="put the base url here"
 )
 
 while True:
